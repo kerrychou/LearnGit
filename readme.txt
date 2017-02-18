@@ -8,3 +8,5 @@ third wrote!
 
 fourth wrote!
 
+Git has a mutable index called stage.
+
