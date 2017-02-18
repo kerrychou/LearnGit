@@ -17,3 +17,4 @@ Creating a new branch is quick and simple.
 分支管理策略
 Bug分支
 呵呵
+多人协作
